@@ -1,4 +1,4 @@
-#Features of My Notepad++ User Defined Language (A.K.A. Syntax Highlighting) 
+# Features of My Notepad++ User Defined Language (A.K.A. Syntax Highlighting) 
 
 - Compatibility: Works with various editors/UDLs. , specifically made for Notepad ++
 
@@ -22,17 +22,17 @@
 
 - Bright green and red for section headers.
 
-##Issues Encountered
+## Issues Encountered
 
 - Color Coding Errors: Post-editing, files may show incorrect comment color coding. Toggling tabs can temporarily fix this.
 
 - Nested Statements: Struggles with nested #IF, if, ifdefstatements, especially when they end with ;instead of endif. This complexity arises from the limitations of UDL in NPP.
 
-##About Me
+## About Me
 
 I'm not professionally trained in software engineering or programming. My approach involves extensive research, trial and error, and consulting various sources, including AI. Any inaccuracies are not reflective of my personal opinions but rather an attempt to demonstrate my dedication to my work.
 
-##Motivation Behind Creation
+## Motivation Behind Creation
 
 - Background: Previously created a UDL for NPP while working on PowerShell programming for Cisco switches. The UDL significantly improved my coding efficiency.
 
