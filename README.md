@@ -1,5 +1,10 @@
 ## Features of My Notepad++ User Defined Language (Syntax Highlighting)
 
+This customization is tailored for the Marlin firmware to handle the Arduino/Wiring language and CPP, focusing primarily on Marlin code and the config files. Changes make finding things in the configs super easy. Reworked config files with section headers can be found [here](https://github.com/OrloDavid/NPP_Marlin_UDL_Language/tree/main/Better%20Marlin%20Configs). These files feature organized sections with easy-to-find headers, grouped similar items, child-like items for faster browsing, and sections organized by machine-specific details, kinematics, steppers, etc.
+
+The UDL features highlighted Define items, even when disabled, they are highlighted in a dimmer color. Multiline comments are a darker set of colors than the single line, allowing for faster skipping past well-known multi-line comments. Gcode has its own color scheme but may not work well if mixed within a comment. The open and close of `If` statements are highlighted, but this can sometimes be confused due to the use of `#ifdef`, `#elif`, `#ifndef`, `#if`, `else`, and their overlapping on closing brackets, which can confuse the UDL. This UDL has evolved over time to accommodate the looping/nested nature of the UDL language, looping through all options and nesting other options as needed, adding to the complexity.
+
+
 ### Compatibility
 - Works with various editors/UDLs, specifically designed for Notepad++
 
@@ -67,6 +72,4 @@ I'm not professionally trained in software engineering or programming. My approa
 ### UDL Programming
 - I view UDL programming as a blend of creativity and critical thinking. It's like planning several steps ahead in chess, considering the nested nature of coding.
 
-This customization is tailored for the Marlin firmware to handle the Arduino/Wiring language and CPP, focusing primarily on Marlin code and the config files. Changes make finding things in the configs super easy. Reworked config files with section headers can be found [here](https://github.com/OrloDavid/NPP_Marlin_UDL_Language/tree/main/Better%20Marlin%20Configs). These files feature organized sections with easy-to-find headers, grouped similar items, child-like items for faster browsing, and sections organized by machine-specific details, kinematics, steppers, etc.
 
-The UDL features highlighted Define items, even when disabled, they are highlighted in a dimmer color. Multiline comments are a darker set of colors than the single line, allowing for faster skipping past well-known multi-line comments. Gcode has its own color scheme but may not work well if mixed within a comment. The open and close of `If` statements are highlighted, but this can sometimes be confused due to the use of `#ifdef`, `#elif`, `#ifndef`, `#if`, `else`, and their overlapping on closing brackets, which can confuse the UDL. This UDL has evolved over time to accommodate the looping/nested nature of the UDL language, looping through all options and nesting other options as needed, adding to the complexity.
