@@ -1,29 +1,5 @@
 ## Features of My Notepad++ User Defined Language (Syntax Highlighting)
 
-## Screenshots of Notepad++ User Defined Language (UDL)
-
-### Screenshot 1
-![NPP Marlin UDL 01](https://github.com/OrloDavid/NPP_Marlin_UDL_Language/blob/main/Screenshots/NPP_Marlin_UDL_01.png)
-
-### Screenshot 2
-![NPP Marlin UDL 02](https://github.com/OrloDavid/NPP_Marlin_UDL_Language/blob/main/Screenshots/NPP_Marlin_UDL_02.png)
-
-### Screenshot 3
-![NPP Marlin UDL 03](https://github.com/OrloDavid/NPP_Marlin_UDL_Language/blob/main/Screenshots/NPP_Marlin_UDL_03.png)
-
-### Screenshot 4
-![NPP Marlin UDL 04](https://github.com/OrloDavid/NPP_Marlin_UDL_Language/blob/main/Screenshots/NPP_Marlin_UDL_04.png)
-
-### Screenshot 5
-![NPP Marlin UDL 05](https://github.com/OrloDavid/NPP_Marlin_UDL_Language/blob/main/Screenshots/NPP_Marlin_UDL_05.png)
-
-### Screenshot 6
-![NPP Marlin UDL 06](https://github.com/OrloDavid/NPP_Marlin_UDL_Language/blob/main/Screenshots/NPP_Marlin_UDL_06.png)
-
-### Screenshot 7
-![NPP Marlin UDL 07](https://github.com/OrloDavid/NPP_Marlin_UDL_Language/blob/main/Screenshots/NPP_Marlin_UDL_07.png)
-
-
 ### Compatibility
 - Works with various editors/UDLs, specifically designed for Notepad++
 
@@ -49,6 +25,33 @@
 
 ### Nested Statements
 - Struggles with nested `#IF`, `if`, `ifdef` statements, especially when they end with `;` instead of `endif`. This complexity arises from the limitations of UDL in NPP.
+
+
+## Screenshots of Notepad++ User Defined Language (UDL)
+
+### Screenshot 1
+![NPP Marlin UDL 01](https://github.com/OrloDavid/NPP_Marlin_UDL_Language/blob/main/Screenshots/NPP_Marlin_UDL_01.png)
+
+### Screenshot 2
+![NPP Marlin UDL 02](https://github.com/OrloDavid/NPP_Marlin_UDL_Language/blob/main/Screenshots/NPP_Marlin_UDL_02.png)
+
+### Screenshot 3
+![NPP Marlin UDL 03](https://github.com/OrloDavid/NPP_Marlin_UDL_Language/blob/main/Screenshots/NPP_Marlin_UDL_03.png)
+
+### Screenshot 4
+![NPP Marlin UDL 04](https://github.com/OrloDavid/NPP_Marlin_UDL_Language/blob/main/Screenshots/NPP_Marlin_UDL_04.png)
+
+### Screenshot 5
+![NPP Marlin UDL 05](https://github.com/OrloDavid/NPP_Marlin_UDL_Language/blob/main/Screenshots/NPP_Marlin_UDL_05.png)
+
+### Screenshot 6
+![NPP Marlin UDL 06](https://github.com/OrloDavid/NPP_Marlin_UDL_Language/blob/main/Screenshots/NPP_Marlin_UDL_06.png)
+
+### Screenshot 7
+![NPP Marlin UDL 07](https://github.com/OrloDavid/NPP_Marlin_UDL_Language/blob/main/Screenshots/NPP_Marlin_UDL_07.png)
+
+
+
 
 ## About Me
 I'm not professionally trained in software engineering or programming. My approach involves extensive research, trial and error, and consulting various sources, including AI. Any inaccuracies are not reflective of my personal opinions but rather an attempt to demonstrate my dedication to my work.
