@@ -54,7 +54,7 @@ The UDL features highlighted Define items, even when disabled, they are highligh
 
 ### Screenshot 7
 ![NPP Marlin UDL 07](https://github.com/OrloDavid/NPP_Marlin_UDL_Language/blob/main/Screenshots/NPP_Marlin_UDL_07.png)
-
+ 
 
 
 
